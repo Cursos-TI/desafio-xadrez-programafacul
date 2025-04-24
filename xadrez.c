@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    // mover a torre 5 casas para a direita 
+    // mover a Torre 5 casas para a direita 
     printf("\n Torre:\n");
     for (int i = 0; i < 5; i++) {
         printf("Direita\n"); // imprime a direção do movimento 
